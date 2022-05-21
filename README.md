@@ -1,14 +1,16 @@
+<h1><img src="https://raw.githubusercontent.com/mojtaba-sharif/mojtaba-sharif/main/assets/Hand%20Wave.gif" width="33" alt="ops"/> Hey there! Nice to meet you 🧔</h1>
+
 ### About Me
 
 Software Engineer
 
 ```
-Mojtaba (Ramon) Sharif 👦🏻 = {
+Mojtaba (Ramon) Sharif 🧔 = {
     'Position': Chief Technology Officer,
     'Programming-languages': [Python 🐍, Java ☕, Kotlin ☕, Java script ☕],
-    'Backend': [Spring, Nestjs 🐈,Web Service, RestAPI],
+    'Backend': [Spring 🌱, Nestjs 🐈,Web Service, RestAPI],
     'Frontend': [Angular],
-    'Education👨🏻‍🎓': ,
+    'Education👨‍🎓': ,
     'Learning🌱' = [
         Software Engineering,
         Computer Science,
