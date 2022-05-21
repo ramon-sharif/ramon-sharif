@@ -8,7 +8,7 @@ Software Engineer
 Mojtaba (Ramon) Sharif 🧔 = {
     'Position': Chief Technology Officer,
     'Programming-languages': [Python 🐍, Java ☕, Kotlin ☕, Java script ☕],
-    'Backend': [Spring 🌱, Nestjs 🐈,Web Service, RestAPI],
+    'Backend': [Spring 🌱, Nestjs 🐈, Web Service, RestAPI],
     'Frontend': [Angular],
     'Education👨‍🎓': ,
     'Learning🌱' = [
