@@ -12,7 +12,7 @@ Mojtaba (Ramon) Sharif 🧔 = {
     'Frontend': [Angular],
     'Education👨‍🎓': ,
     'Learning🌱' = [
-        Software Engineering,
+        Data Engineering,
         Business Analytics,
         Software Project Management,
     ],
