@@ -13,7 +13,6 @@ Mojtaba (Ramon) Sharif 🧔 = {
     'Education👨‍🎓': ,
     'Learning🌱' = [
         Software Engineering,
-        Computer Science,
         Business Analytics,
         Software Project Management,
     ],
