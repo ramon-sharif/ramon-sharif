@@ -5,7 +5,7 @@
 Software Engineer
 
 ```
-Mojtaba (Ramon) Sharif 🧔 = {
+Ramon 🧔 = {
     'Position': Chief Technology Officer,
     'Programming-languages': [Java ☕, Kotlin ☕, Type script ☕],
     'Backend': [Spring 🌱, Nestjs 🐈, Web Service, RestAPI],
@@ -23,8 +23,8 @@ Mojtaba (Ramon) Sharif 🧔 = {
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p>
-<a href="mailto:jramun7@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Mojtaba (Ramon) Sharif-D14836?style=plastic&logo=Gmail&logoColor=white"/></a>
-<a href="https://t.me/thejramon" target="_blank"><img src="https://img.shields.io/badge/-Mojtaba (Ramon) Sharif-2CA5E0?style=plastic&logo=telegram&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/thejramon" target="_blank"><img src="https://img.shields.io/badge/-Mojtaba (Ramon) Sharif-2CA5E0?style=plastic&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:jramun7@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Ramon-D14836?style=plastic&logo=Gmail&logoColor=white"/></a>
+<a href="https://t.me/thejramon" target="_blank"><img src="https://img.shields.io/badge/-Ramon-2CA5E0?style=plastic&logo=telegram&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/thejramon" target="_blank"><img src="https://img.shields.io/badge/-Ramon-2CA5E0?style=plastic&logo=linkedin&logoColor=white"/></a>
 </p>
 
