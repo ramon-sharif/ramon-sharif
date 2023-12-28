@@ -5,7 +5,7 @@
 Software Engineer
 
 ```
-Ramon 🧔 = {
+Ramon Sharif = {
     'Position': Chief Technology Officer,
     'Programming-languages': [Java ☕, Kotlin ☕, Type script ☕],
     'Backend': [Spring 🌱, Nestjs 🐈, Web Service, RestAPI],
