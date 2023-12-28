@@ -16,7 +16,7 @@ Ramon Sharif = {
         Business Analytics,
         Software Project Management,
     ],
-    'Sport': [💪🏻 🥋]
+    'Sport': [🏋️‍♂️,🥋]
 }
 ```
 
