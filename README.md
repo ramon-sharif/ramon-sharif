@@ -10,8 +10,8 @@ Ramon Sharif = {
     'Programming-languages': [Java ☕, Kotlin ☕, Type script ☕],
     'Backend': [Spring 🌱, Nestjs 🐈, Web Service, RestAPI],
     'Frontend': [Angular],
-    'Education👨‍🎓': ,
-    'Learning🌱' = [
+    'Education 👨‍🎓': ,
+    'Learning 🌱' = [
         Data Engineering,
         Business Analytics,
         Software Project Management,
