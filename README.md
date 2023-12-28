@@ -13,8 +13,7 @@ Ramon Sharif = {
     'Education 👨‍🎓': ,
     'Learning 🌱' = [
         Data Engineering,
-        Business Analytics,
-        Software Project Management,
+        Business Strategy
     ],
     'Sport': [🏋️‍♂️,🥋]
 }
