@@ -2,7 +2,10 @@
 
 ### About Me
 
-Software Engineer
+🌟 Empowering Entrepreneurs & Career Go-Getters
+🔥 Daily Dose: No-BS Business & Career Tips
+🥰 1k+ Trained
+Let's Thrive Together 🤝
 
 ```
 Ramon Sharif = {
