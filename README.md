@@ -2,10 +2,9 @@
 
 ### About Me
 
-🌟 Empowering Entrepreneurs & Career Go-Getters
-🔥 Daily Dose: No-BS Business & Career Tips
-🥰 1k+ Trained
-Let's Thrive Together 🤝
+Empowering Entrepreneurs & Career Go-Getters 💡
+1k+ Trained 🥰
+Strategize Smart, Succeed Together 🤝
 
 ```
 Ramon Sharif = {
