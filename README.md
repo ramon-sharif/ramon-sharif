@@ -4,8 +4,6 @@
 
 Empowering Entrepreneurs & Career Go-Getters 💡
 
-1k+ Trained 🥰
-
 Strategize Smart, Succeed Together 🤝
 
 ```
