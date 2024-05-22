@@ -1,10 +1,7 @@
 <h1><img src="https://raw.githubusercontent.com/mojtaba-sharif/mojtaba-sharif/main/assets/Hand%20Wave.gif" width="33" alt="ops"/> Hey there! Nice to meet you </h1>
 
-### About Me
 
-Empowering Entrepreneurs & Career Go-Getters 💡
-
-Strategize Smart, Succeed Together 🤝
+### Strategize Smart, Succeed Together 🤝
 
 ```
 Ramon Sharif = {
